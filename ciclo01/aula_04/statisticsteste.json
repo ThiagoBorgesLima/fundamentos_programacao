@@ -1,0 +1,157 @@
+[
+    {
+        "fase_operacao": "MANOBRA",
+        "ocorrencias:": 161,
+        "percentual": "16100.000%"
+    },
+    {
+        "fase_operacao": "APROXIMAÇÃO FINAL",
+        "ocorrencias:": 234,
+        "percentual": "23400.000%"
+    },
+    {
+        "fase_operacao": "CORRIDA APÓS POUSO",
+        "ocorrencias:": 602,
+        "percentual": "60200.000%"
+    },
+    {
+        "fase_operacao": "CRUZEIRO",
+        "ocorrencias:": 660,
+        "percentual": "66000.000%"
+    },
+    {
+        "fase_operacao": "DECOLAGEM",
+        "ocorrencias:": 795,
+        "percentual": "79500.000%"
+    },
+    {
+        "fase_operacao": "ARREMETIDA NO SOLO",
+        "ocorrencias:": 42,
+        "percentual": "4200.000%"
+    },
+    {
+        "fase_operacao": "TÁXI",
+        "ocorrencias:": 439,
+        "percentual": "43900.000%"
+    },
+    {
+        "fase_operacao": "DESCIDA",
+        "ocorrencias:": 192,
+        "percentual": "19200.000%"
+    },
+    {
+        "fase_operacao": "OUTRA FASE",
+        "ocorrencias:": 101,
+        "percentual": "10100.000%"
+    },
+    {
+        "fase_operacao": "SUBIDA",
+        "ocorrencias:": 359,
+        "percentual": "35900.000%"
+    },
+    {
+        "fase_operacao": "POUSO",
+        "ocorrencias:": 914,
+        "percentual": "91400.000%"
+    },
+    {
+        "fase_operacao": "CIRCUITO DE TRÁFEGO",
+        "ocorrencias:": 125,
+        "percentual": "12500.000%"
+    },
+    {
+        "fase_operacao": "PAIRADO",
+        "ocorrencias:": 20,
+        "percentual": "2000.000%"
+    },
+    {
+        "fase_operacao": "INDETERMINADA",
+        "ocorrencias:": 70,
+        "percentual": "7000.000%"
+    },
+    {
+        "fase_operacao": "ESPECIALIZADA",
+        "ocorrencias:": 173,
+        "percentual": "17300.000%"
+    },
+    {
+        "fase_operacao": "PARTIDA DO MOTOR",
+        "ocorrencias:": 30,
+        "percentual": "3000.000%"
+    },
+    {
+        "fase_operacao": "RETA FINAL",
+        "ocorrencias:": 16,
+        "percentual": "1600.000%"
+    },
+    {
+        "fase_operacao": "ARREMETIDA NO AR",
+        "ocorrencias:": 25,
+        "percentual": "2500.000%"
+    },
+    {
+        "fase_operacao": "OPERAÇÃO DE SOLO",
+        "ocorrencias:": 46,
+        "percentual": "4600.000%"
+    },
+    {
+        "fase_operacao": "ESTACIONAMENTO",
+        "ocorrencias:": 72,
+        "percentual": "7200.000%"
+    },
+    {
+        "fase_operacao": "NAVEGAÇÃO A BAIXA ALTURA",
+        "ocorrencias:": 60,
+        "percentual": "6000.000%"
+    },
+    {
+        "fase_operacao": "CHEQUE DE MOTOR OU ROTOR",
+        "ocorrencias:": 13,
+        "percentual": "1300.000%"
+    },
+    {
+        "fase_operacao": "SAÍDA IFR",
+        "ocorrencias:": 7,
+        "percentual": "700.000%"
+    },
+    {
+        "fase_operacao": "DECOLAGEM VERTICAL",
+        "ocorrencias:": 8,
+        "percentual": "800.000%"
+    },
+    {
+        "fase_operacao": "PUSHBACK",
+        "ocorrencias:": 6,
+        "percentual": "600.000%"
+    },
+    {
+        "fase_operacao": "ESPERA",
+        "ocorrencias:": 4,
+        "percentual": "400.000%"
+    },
+    {
+        "fase_operacao": "PROCEDIMENTO DE APROXIMAÇÃO IFR",
+        "ocorrencias:": 7,
+        "percentual": "700.000%"
+    },
+    {
+        "fase_operacao": "DESCIDA DESCONTROLADA",
+        "ocorrencias:": 2,
+        "percentual": "200.000%"
+    },
+    {
+        "fase_operacao": "EMPREGO MILITAR",
+        "ocorrencias:": 1,
+        "percentual": "100.000%"
+    },
+    {
+        "fase_operacao": "DESCIDA DE EMERGÊNCIA",
+        "ocorrencias:": 2,
+        "percentual": "200.000%"
+    },
+    {
+        "fase_operacao": "***",
+        "ocorrencias:": 1,
+        "percentual": "100.000%"
+    }
+]

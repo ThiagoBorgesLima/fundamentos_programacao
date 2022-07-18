@@ -1,0 +1,14 @@
+,id,name,ticket,id_produto,preco,qtd_comprada
+0,1,Chase Mclean,123,1,6.12,1
+1,2,Moses Smith,456,2,8.71,4
+2,3,Bob Lee,789,1,6.12,2
+3,4,Patrick Kemp,101,4,8.89,3
+4,5,Eron Fuller,111,5,4.91,1
+5,1,Chase Mclean,123,2,8.71,6
+6,1,Chase Mclean,123,7,2.49,9
+7,4,Patrick Kemp,101,8,9.89,7
+8,1,Chase Mclean,225,1,6.12,5
+9,1,Chase Mclean,225,2,8.71,2
+10,1,Chase Mclean,543,1,6.12,3
+11,1,Chase Mclean,543,2,8.71,1
+12,5,Eron Fuller,444,5,4.91,5
